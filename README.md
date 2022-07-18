@@ -13,6 +13,7 @@ I'm studying web development in the first Explorer edition at [Rocketseat](https
 #### Current Stack 
 - :zap:Main Language : `Java Script`
 - :tada:FrontEnd: `HTML5`, `CSS3`,`Java Script`
+- :tada:Back-end: `Node.js`
 - :art:Layout Design : `Figma`
 - :card_file_box:Version Code Control : `Git e GitHub`
 - :hammer:Tools:  `VScode`
