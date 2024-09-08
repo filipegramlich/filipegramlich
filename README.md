@@ -1,6 +1,6 @@
 # Hi.
 
-- X (Twitter): [@filipeogr](https://x.com/filipeogr)
+- X : [@filipeogr](https://x.com/filipeogr)
 - Email: filipe.ogramlich@gmail.com
 
 ## Experience
