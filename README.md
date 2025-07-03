@@ -1,7 +1,7 @@
 ## Filipe Gramlich.
-Building systems that solve problems.
+You are the industry.
 
 ### Links:
-- X : [@filipeogr](https://x.com/filipeogr)
 - Email: filipe.ogramlich@gmail.com
+- X : [@filipeogr](https://x.com/filipeogr)
 
