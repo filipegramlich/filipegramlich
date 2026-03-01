@@ -1,6 +1,10 @@
 # Filipe Gramlich
 
-Applying Mathematical Optimization (Operations Research) to Tax Planning and Strategic Decision-Making
+Applying Data Analysis and Mathematical Optimization (Operations Research) to Tax Planning and Strategic Decision-Making
+
+
+## Research:
+- [R 01 - Como a Reforma Tributária irá afetar o fluxo de caixa, capital de giro e lucratividade das empresas?](https://gist.github.com/filipegramlich/069f22de341b573460414a1332b2e75a)
 
 ## Learning:
 
